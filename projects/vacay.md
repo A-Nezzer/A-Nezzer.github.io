@@ -2,27 +2,20 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+title: "Professional Development"
+date: 2020
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Leadership
+  - Scheduling
+  - Event Planning
+summary: "Organizing events and speakers for incoming freshman at UH Manoa"
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
+The Hawaii Undergraduate Initiative is a program at the University of Hawaii at Manoa made to help incoming freshman better integrate into college life. Run by fellow college students, it is made to provide opportunities for community and resources that help better deal with the sudden change that is college. I was elected director of professional development for this program, and put in charge of organizing events to help with the professional side of college.
+Most of my job was finding speakers or activities that could best help incoming freshment. Most of what I did was presenting online resources to the students that could help with specific aspects of student life. I also organized a speaker from one of Hawaii's top trade schools to show the many avenues available to them.
+The technical side of my job was mainly data collection and analysys. I had to put together surveys to best gather what the incoming freshmen needed, and then using that data, I had to find the proper resources and ensure that the information and people could be available when needed. 
  
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+To learn more about the Hawaii Undergraduate Initiative: <a href="http://www.manoa.hawaii.edu/omsshui//">HUI Website</a>
