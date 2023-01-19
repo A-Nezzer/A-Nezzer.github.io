@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Cyber Patriot/Cyber logo.png
+image: img/Cyber%20Patriot/Cyber%20logo.png
 title: "CyberPatriot"
 date: 2019
 published: true
