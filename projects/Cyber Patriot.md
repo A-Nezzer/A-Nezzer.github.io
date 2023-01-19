@@ -12,7 +12,7 @@ summary: "I participated in a team cybersecurity challenge"
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
+  <img width="200px" src="../img/Cyber%20Patriot/Cyber%20logo.png" class="img-thumbnail" >
 </div>
 
 CyberPatriot is a national cyber security competition run by the US Air Force made to encourage students to learn and apply cyber security skills. I was part of a team of students who all worked together to compete. The competition took place over multiple hours, over multiple machines. The team is responsible for ensuring the security of a windows and ubuntu machine, while also working on a cisco server to ensure security.
