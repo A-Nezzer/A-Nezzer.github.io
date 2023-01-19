@@ -16,10 +16,10 @@ In an attempt to make a playable game on a much smaller scale, I took to using a
 
 <hr>
 
-<pre>
+
 This started by using a basic third party map editor to make a more "on rails" experience, while keeping it from feeling too contained. Then I just had to use in game command blocks, terminals that can be set to run console commands, to add in experiences that were less likely to be found in minecraft. 
 
 This was a great early application of coding in junction with other software. I had to work within the boundaries of minecraft, as even the third pary software I used simply edited text files, although on a grand scale.
-</pre>
+
 
 <hr>
