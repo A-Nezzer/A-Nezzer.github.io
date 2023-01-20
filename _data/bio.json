@@ -38,54 +38,54 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Whole Foods",
+      "position": "Baker/Barista",
+      "website": "https://www.wholefoodsmarket.com",
+      "startDate": "July 2021",
+      "endDate": "August 2022",
+      "summary": "Baked and packed merchandise for next day, Worked the Coffee Juice bar",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Properly make, package, label and organize products",
+        "Aid and engage customers in exploring services or finding merchandise",
+        "Work and maintain the coffee juice bar, making custom coffees, smoothies, juices, and acai bowls"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Hawaii State Public Library System (HSPLS)",
+      "position": "Student Helper",
+      "website": "https://www.librarieshawaii.org",
+      "startDate": "August 2018",
+      "endDate": "June 2020",
+      "summary": "Organize and Return books, Customer Service",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Accurately organized, straightened, shelved, sorted, shifted books, and audio visual material, and book carts alphabetically or using Dewey Decimal system",
+        "Aid and engage customers in exploring services or finding material"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Orange County Public Library System, Silverado Canyon",
+      "website": "https://www.ocpl.org",
+      "position": "Student Volunteer",
+      "startDate": "August 2017",
+      "endDate": "July 2018",
+      "summary": "Organize and Return books, Customer Service",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Accurately organized, straightened, shelved, sorted, shifted books, and audio visual material, and book carts alphabetically or using Dewey Decimal system",
+        "Aid and engage customers in exploring services or finding material"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Anaheim Central Public Library",
+      "website": "https://www.anaheim.net/",
+      "position": "Student Volunteer",
+      "startDate": "August 2018",
+      "endDate": "May 2018",
+      "summary": "Organize and Return books, Customer Service",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Accurately organized, straightened, shelved, sorted, shifted books, and audio visual material, and book carts alphabetically or using Dewey Decimal system",
+        "Aid and engage customers in exploring services or finding material"
       ]
     }
   ]
