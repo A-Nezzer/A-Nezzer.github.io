@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/vacay/logo.jpeg
 title: "Professional Development"
 date: 2020
 published: true
