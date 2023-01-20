@@ -6,7 +6,7 @@ title: "A Light Adventure"
 date: 2023
 published: true
 labels:
-  - Minecraft
+  - Game Design
 summary: "A small adventure made in minecraft using a mixture of third party software and in game command line."
 ---
 
