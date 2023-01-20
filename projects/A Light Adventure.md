@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/cotton/square.png
 title: "A Light Adventure"
 date: 2023
 published: true
@@ -10,7 +10,7 @@ labels:
 summary: "A small adventure made in minecraft using a mixture of third party software and in game command line."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/cotton/head.png">
 
 In an attempt to make a playable game on a much smaller scale, I took to using a very simple format: Minecraft. Minecraft already has basic gameplay elements implemented, and so all I had to do was make a rudimentary story and tweak mechanics to turn it from a sandbox game to a more traditional adventure game. 
 
