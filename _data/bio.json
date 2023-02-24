@@ -1,0 +1,92 @@
+{
+  "basics": {
+    "name": "Aaron Nezzer",
+    "label": "Student",
+    "picture": "https://github.com/A-Nezzer.png",
+    "email": "anezzer@hawaii.edu",
+    "phone": "808-824-2397",
+    "website": "https://A-Nezzer.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "A-Nezzer", "url": "http://github.com/A-Nezzer" },
+      { "network": "linkedin", "username": "Aaron Nezzer", "url": "https://www.linkedin.com/in/aaron-nezzer-0636a4205/" },
+    ]
+  },
+  "interests": [
+    { "name": "Library Science" },
+    { "name": "Game Design" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Windows10/11", "Git/GitHub" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2020-09-01",
+      "endDate": "Present",
+    }
+  ],
+  "work": [
+    {
+      "company": "Whole Foods",
+      "position": "Baker/Barista",
+      "website": "https://www.wholefoodsmarket.com",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Baked and packed merchandise for next day, Worked the Coffee Juice bar",
+      "highlights": [
+        "Properly make, package, label and organize products",
+        "Aid and engage customers in exploring services or finding merchandise",
+        "Work and maintain the coffee juice bar, making custom coffees, smoothies, juices, and acai bowls"
+      ]
+    },
+    {
+      "company": "Hawaii State Public Library System (HSPLS)",
+      "position": "Student Helper",
+      "website": "https://www.librarieshawaii.org",
+      "startDate": "2018",
+      "endDate": "2020",
+      "summary": "Organize and Return books, Customer Service",
+      "highlights": [
+        "Accurately organized, straightened, shelved, sorted, shifted books, and audio visual material, and book carts alphabetically or using Dewey Decimal system",
+        "Aid and engage customers in exploring services or finding material"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Orange County Public Library System, Silverado Canyon",
+      "website": "https://www.ocpl.org",
+      "position": "Student Volunteer",
+      "startDate": "2017",
+      "endDate": "2018",
+      "summary": "Organize and Return books, Customer Service",
+      "highlights": [
+        "Accurately organized, straightened, shelved, sorted, shifted books, and audio visual material, and book carts alphabetically or using Dewey Decimal system",
+        "Aid and engage customers in exploring services or finding material"
+      ]
+    },
+    {
+      "organization": "Anaheim Central Public Library",
+      "website": "https://www.anaheim.net/",
+      "position": "Student Volunteer",
+      "startDate": "2018",
+      "endDate": "",
+      "summary": "Organize and Return books, Customer Service",
+      "highlights": [
+        "Accurately organized, straightened, shelved, sorted, shifted books, and audio visual material, and book carts alphabetically or using Dewey Decimal system",
+        "Aid and engage customers in exploring services or finding material"
+      ]
+    }
+  ]
+}
