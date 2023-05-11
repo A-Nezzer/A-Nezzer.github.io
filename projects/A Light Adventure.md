@@ -1,16 +1,18 @@
 ---
 layout: project
 type: project
-image: img/cotton/square.png
-title: "A Light Adventure"
-date: 2023
+image: img/Rio.png
+title: "Rio-Connect"
+date: 2023-05-10
 published: true
 labels:
-  - Game Design
-summary: "A small adventure made in minecraft using a mixture of third party software and in game command line."
+  - Web Development
+  - Software Development
+  - Social Media
+summary: "A place for university students and clubs to connect."
 ---
 
-<img class="img-fluid" src="../img/cotton/head.png">
+<img class="img-fluid" src="../img/Clubs.png">
 
 In an attempt to make a playable game on a much smaller scale, I took to using a very simple format: Minecraft. Minecraft already has basic gameplay elements implemented, and so all I had to do was make a rudimentary story and tweak mechanics to turn it from a sandbox game to a more traditional adventure game. 
 
